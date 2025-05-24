@@ -283,7 +283,7 @@ async def txt_handler(bot: Client, m: Message):
              #id =  url.split("/")[-2]
              #url = f"https://anonymouspwplayer-b99f57957198.herokuapp.com/pw?url={url}?token={raw_text4}"
             #url = f"https://madxapi-d0cbf6ac738c.herokuapp.com/{id}/master.m3u8?token={raw_text4}"
-            elif "https://d1d34p8vz63oiq.cloudfront.net/a32f0885-cf0b-41d4-8b0c-8dd04f7e6ff2/master.mpd&parentId=676ad9449870d50ffe5fec56&childId=681251d561c8873cc0bdc7d5"
+            elif d1d34p8vz63oiq" in url or "sec1.pw.live" in url:
              url = f"https://anonymousrajputplayer-9ab2f2730a02.herokuapp.com/pw?url={url}&token={pw_token}"
                 
             
